@@ -51,7 +51,7 @@ As a complete beginner, this challenge provided some space to tinker with what i
 
 ### Continued development
 
-As of date, I have learnt on CSS layout techniques such as Flexbox and Grid. I intend touse hese techniques in time to refine my skills.
+As of date, I have learnt on CSS layout techniques such as Flexbox and Grid. I intend to use these techniques in time to refine my skills.
 
 ## Author
 
